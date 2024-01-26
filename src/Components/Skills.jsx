@@ -9,7 +9,7 @@ import FirebaseLogo from "../Assets/Firebase.png"
 import PythonLogo from "../Assets/Python.png"
 import FigmaLogo from "../Assets/Figma.png"
 import SassLogo from "../Assets/Sass.png"
-import GitLogo from "../Assets/git.png"
+import GitLogo from "../Assets/Git.png"
 import GithubLogo from "../Assets/GithubSkilsLogo.png"
 import { IoMdArrowDropdown, IoMdArrowDropup } from "react-icons/io"
 
