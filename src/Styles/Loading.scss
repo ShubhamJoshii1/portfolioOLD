@@ -1,0 +1,17 @@
+#Loading{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    // background-color: #0B0A0B;
+    background: linear-gradient(rgba(1, 24, 35, 1), rgba(11, 10, 11, 1));
+    color: rgba(255, 255, 255, 0.626);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    #loadingReact{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
