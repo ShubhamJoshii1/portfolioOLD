@@ -33,7 +33,7 @@ const FrontPage = ({ activeNavbar, setActiveNavbar }) => {
                     <p>A Full-Stack Web Developer passionate about creating <br />interactive application and experiences on the web</p>
                     <div id='btns'>
                         <a href='https://github.com/ShubhamJoshii' target='_blank' rel="noreferrer">GITHUB<RiExternalLinkFill /></a>
-                        <a href='https://drive.google.com/file/d/1OAwXRB0uOjNZfg6_fUy13CsZoYmFEyaD/view?usp=sharing' rel="noreferrer" target='_blank'>DOWNLOAD RESUME</a>
+                        <a href='https://drive.google.com/file/d/170t40CWF0c0pLFkfXWJmqu7MMjPYWeO6/view?usp=sharing' rel="noreferrer" target='_blank'>DOWNLOAD RESUME</a>
                     </div>
                     <div id='checkMeOut'>
                         <p>Check me out</p>
