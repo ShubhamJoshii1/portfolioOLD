@@ -74,7 +74,7 @@ const ContactMe = ({ setActiveNavbar }) => {
               <img src={Linkedin} alt="Social Logo" />
             </a>
           </div>
-          <a href="https://drive.google.com/uc?export=view&id=1OAwXRB0uOjNZfg6_fUy13CsZoYmFEyaD" target='_blank' rel="noreferrer">
+          <a href="https://drive.google.com/uc?export=view&id=170t40CWF0c0pLFkfXWJmqu7MMjPYWeO6" target='_blank' rel="noreferrer">
             <button>Download CV</button>
           </a>
         </div>
