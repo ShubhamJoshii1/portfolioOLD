@@ -62,7 +62,7 @@ const Header = ({activeNavbar,setActiveNavbar}) => {
                         <li  className={activeNavbar === "Certificate" ? 'active' : ""} onClick={()=>setDisplayMenu(false)}><a href='#Certificate' rel="noreferrer"><img src={HeaderImage1} alt='HeaderImage' /> Certificates</a></li>
                         <li className={activeNavbar === "ContactME" ? 'active' : ""} onClick={()=>setDisplayMenu(false)}><a href='#ContactME' rel="noreferrer"><img src={HeaderImage2} alt='HeaderImage' /> Contact</a></li>
                     </ol>
-                    <button><a href='https://drive.google.com/file/d/1OAwXRB0uOjNZfg6_fUy13CsZoYmFEyaD/view?usp=sharing' target='_blank' rel="noreferrer">Download Resume</a></button>
+                    <button><a href='https://drive.google.com/file/d/170t40CWF0c0pLFkfXWJmqu7MMjPYWeO6/view?usp=sharing' target='_blank' rel="noreferrer">Download Resume</a></button>
                 </div>
             </div>
             <ul>
@@ -70,7 +70,7 @@ const Header = ({activeNavbar,setActiveNavbar}) => {
                 <li className={activeNavbar === "AboutME" ? 'active' : ""}><a href='#AboutME' rel="noreferrer">ABOUT ME</a></li>
                 <li className={activeNavbar === "Projects" ? 'active' : ""}><a href='#Projects' rel="noreferrer">PROJECT</a></li>
                 <li className={activeNavbar === "ContactME" ? 'active' : ""}><a href='#ContactME' rel="noreferrer">CONTACT</a></li>
-                <li><a href='https://drive.google.com/file/d/1OAwXRB0uOjNZfg6_fUy13CsZoYmFEyaD/view?usp=sharing' target='_blank' rel="noreferrer">RESUME</a></li>
+                <li><a href='https://drive.google.com/file/d/170t40CWF0c0pLFkfXWJmqu7MMjPYWeO6/view?usp=sharing' target='_blank' rel="noreferrer">RESUME</a></li>
             </ul>
             <div id="OnscrollHeader">
                 <a href='#FrontPage'>
@@ -81,7 +81,7 @@ const Header = ({activeNavbar,setActiveNavbar}) => {
                     <li className={activeNavbar === "AboutME" ? 'active' : ""}><a href='#AboutME' rel="noreferrer">ABOUT ME</a></li>
                     <li className={activeNavbar === "Projects" ? 'active' : ""}><a href='#Projects' rel="noreferrer">PROJECT</a></li>
                     <li className={activeNavbar === "ContactME" ? 'active' : ""}><a href='#ContactME' rel="noreferrer">CONTACT</a></li>
-                    <li><a href='https://drive.google.com/file/d/1OAwXRB0uOjNZfg6_fUy13CsZoYmFEyaD/view?usp=sharing' target='_blank' rel="noreferrer">RESUME</a></li>
+                    <li><a href='https://drive.google.com/file/d/170t40CWF0c0pLFkfXWJmqu7MMjPYWeO6/view?usp=sharing' target='_blank' rel="noreferrer">RESUME</a></li>
                 </ul>
             </div>
         </header>
